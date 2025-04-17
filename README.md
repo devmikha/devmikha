@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo J. Miguel, mais conhecido como Mikhael, tenho 19 anos e sou natural do Rio Grande do Sul.
+Me chamo J. Miguel, mais conhecido como Mikhael, tenho 19 anos e sou natural do Rio Grande do Sul. Sou desenvolvedor BackEnd e criador de conteúdo, focado em construir projetos do zero que unam propósito e criatividade. Gosto de transformar ideias em código e compartilhar o processo com quem também busca evoluir no mundo da tecnologia.
 
 <div> 
     <a href="https://www.youtube.com/@MikhaDev" 

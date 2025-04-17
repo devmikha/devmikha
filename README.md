@@ -115,7 +115,7 @@ Me chamo J. Miguel, mais conhecido como Mikhael, tenho 19 anos e sou natural do 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmikha&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmikha&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
